@@ -1,5 +1,5 @@
 # In-Vivo-Cavitation-Dose-Calculation
-These scripts can be used to determine the total cavitation dose across multiple treatments. Example voltage and time data for one animal across multiple treatment days (pre-processed for ease of using with this script) can be used with this script.
+These scripts can be used to determine the total cavitation dose across multiple treatments. Example voltage and time data for one animal across multiple treatment days (just 2 of 5 daily treatments are included) can be used with this script.
 
 # Requirements
 The code is written in MATLAB and requires you add the natsortfiles MATLAB function to your MATPATH: https://www.mathworks.com/matlabcentral/fileexchange/47434-natural-order-filename-sort
@@ -28,8 +28,7 @@ The code is written in MATLAB and requires you add the natsortfiles MATLAB funct
 
 | PressureAnimal | harmonicAUCnet_TotalAUC | harmonicAUCnet_TotalAUC_SD | broadbandnet_TotalAUC | broadbandnet_TotalAUC_SD | totalcavnet_TotalAUC | totalcavnet_TotalAUC_SD |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1700_2 | 1.0639e+06 | 16304 | 9.9026e+05 | 15312 | 2.1209e+06 | 27798 |
-| 700_16 | 36655 | 1801 | 11471 | 970.19 | 47159 | 2739.3 |
+| 700_16 | x | x | x | x | x | x |
 
 # License
 The codes are licensed under GPL-2.0 license.
