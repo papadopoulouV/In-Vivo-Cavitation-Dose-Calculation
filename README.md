@@ -21,8 +21,7 @@ The code is written in MATLAB and requires you add the natsortfiles MATLAB funct
 	Repeat for all treatment days.
 
 3) Run the cavitationAnalysis_Step2 script. You will be prompted to select the export files generated in (2) for D2, D3, D4.
-	Compare MATLAB figures to supplemental figures for animals 2 and 16.
-	T_summary table displayed in the Command window should match the result below.
+	T_summary table displayed in the Command window should match the result below. Note, because example data was size limited and only included two of five daily treatments, the total AUC values will not match totals in the citation below).
 
 
 
