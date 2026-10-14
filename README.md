@@ -1,6 +1,8 @@
 # Passive cavitation detection data from ultrasound-activated phase-change contrast agent treatment of MRSA-infected murine wounds
 
-[Access this dataset on Dryad](DATASET_DOI_LINK)
+These script releases are preserved on Zenodo with a [DOI identifier](https://doi.org/10.5281/zenodo.23371645)
+
+[Access the associated dataset on Dryad](DATASET_DOI_LINK)
 
 **Associated publication:** Kelly E. VanTreeck, Jamie D. Liu, Kaymille Sherman, Zajeba Tabashsum, Michelle Angeles-Solano, Zachary J. Lifschin, Paul A. Dayton, Sarah E. Rowe, Virginie Papadopoulou. Ultrasound Cavitation From Low-Boiling Point Perfluorocarbon Phase Change Contrast Agents Correlates With Bacterial Burden Reduction in Antibiotic Treatment of Biofilm-Infected Murine Wounds. *Ultrasound in Medicine & Biology* (2026). https://doi.org/10.1016/j.ultrasmedbio.2026.08.012
 
@@ -92,7 +94,7 @@ Each element of a structure array is one PCD recording (i.e., one original TDMS 
 ## Sharing/Access information
 
 Analysis scripts are available on GitHub (with a persistent repository via Zenodo), licensed with GNU General Public License v2.0:
- - https://github.com/papadopoulouV/In-Vivo-Cavitation-Dose-Calculation
+ - https://github.com/papadopoulouV/In-Vivo-Cavitation-Dose-Calculation [![DOI](https://zenodo.org/badge/1363254884.svg)](https://doi.org/10.5281/zenodo.23371645)
 
 Data were derived from the following sources:
  - Raw LabVIEW TDMS recordings acquired during the study described in the associated publication (https://doi.org/10.1016/j.ultrasmedbio.2026.08.012). The complete set of raw TDMS files is not included because of its size.
