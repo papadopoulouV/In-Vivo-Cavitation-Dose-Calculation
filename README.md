@@ -5,7 +5,7 @@ These script releases are preserved on Zenodo:  [![DOI](https://zenodo.org/badge
 **Associated publication:** Kelly E. VanTreeck, Jamie D. Liu, Kaymille Sherman, Zajeba Tabashsum, Michelle Angeles-Solano, Zachary J. Lifschin, Paul A. Dayton, Sarah E. Rowe, Virginie Papadopoulou. Ultrasound Cavitation From Low-Boiling Point Perfluorocarbon Phase Change Contrast Agents Correlates With Bacterial Burden Reduction in Antibiotic Treatment of Biofilm-Infected Murine Wounds. *Ultrasound in Medicine & Biology* (2026). https://doi.org/10.1016/j.ultrasmedbio.2026.08.012
 
 **Associated dataset download:**
-[Dataset available on Dryad]([https://datadryad.org/dataset/doi:10.5061/dryad.fxpnvx19b])
+[Dataset available on Dryad](https://datadryad.org/dataset/doi:10.5061/dryad.fxpnvx19b)
 
 ## Summary
 
